@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BMI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="advise_veryligth">极度偏瘦，注意增加饮食！</string>
+    <string name="advise_ligth">偏瘦，你应该多吃点！</string>
+    <string name="advise_average">正常，请继续保持~！</string>
+    <string name="advise_overweight">偏胖，注意锻炼！</string>
+    <string name="advise_heavy">肥胖，多锻炼，注意饮食健康！</string>
+    <string name="advise_severeobesity">重度肥胖，注意饮食要节制，适当减肥！</string>
+    <string name="advise_extremeobesity">极度肥胖，必须减肥，不然易患多种肥胖引起的疾病！</string>
+    <string name="wrong">记得输正确的数值哦！</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+
+</resources>

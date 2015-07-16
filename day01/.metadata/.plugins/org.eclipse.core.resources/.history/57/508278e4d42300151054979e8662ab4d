@@ -1,0 +1,17 @@
+package hefei.huanghao;
+
+public class Shape {
+	public void draw(){
+	System.out.println(this.getClass().getName()+"draw.");
+	}
+	
+	class Circle {
+		
+	}
+
+
+	class Triagle extends Circle{
+	}
+}
+
+
